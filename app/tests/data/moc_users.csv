@@ -1,0 +1,8 @@
+id,email,hashed_password
+1,fedor@moloko.ru,12345678
+2,sharik@moloko.ru,1
+5,namig@example.com,$2b$12$zelNuIYKgAVSeU85.Ydle.yBcn03KzNomQDxZSjh2PGHSNTQ.4Lpu
+6,user@example.com,$2b$12$dyn/dFWLq7DQ6qg5I6cTpeaVbi5Ozwy5uJwxy36TtT1M3P/L77ecC
+7,namig2@example.com,$2b$12$0ayiZP76ReWSBy8m6FynNOI07OxYYJzau7PK5vtDnsLANva4lW0yu
+8,namig44@example.com,$2b$12$v2u/26CeoGi2fF87zpWkQOeU4ZZ6S9cTCZyiNu/jVNV7x9bh1OyOW
+9,namig445@example.com,$2b$12$PqBfvDqbse/OQecpCId2ReLcdmq76mDHsMoTtaQRdAmEpU6xUAkQS
