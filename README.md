@@ -1,7 +1,3 @@
-Here's an example of a `README` for your FastAPI project with Celery, JWT, and Redis:
-
----
-
 # FastAPI Project with JWT Authentication, Redis, and Celery
 
 This project implements a FastAPI application with JWT-based authentication, Redis for caching, and Celery for background tasks.
