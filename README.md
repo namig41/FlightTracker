@@ -43,7 +43,3 @@ This project implements a FastAPI application with JWT-based authentication, Red
 
 ## License
 This project is licensed under the MIT License.
-
----
-
-You can modify and expand this template according to your specific project details.
